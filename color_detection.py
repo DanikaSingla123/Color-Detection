@@ -1,4 +1,5 @@
 import cv2
+import time
 import pandas as pd
 
 # Paths to the image and CSV file
