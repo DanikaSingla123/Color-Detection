@@ -1,6 +1,9 @@
 import cv2
 import time
 import pandas as pd
+x=1
+y=2
+z=x*y
 
 # Paths to the image and CSV file
 img_path = 'image 2.png'
